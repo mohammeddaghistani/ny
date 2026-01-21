@@ -1,0 +1,17 @@
+{
+    "app_name": "تطبيقك المتكامل",
+    "version": "1.0.0",
+    "author": "اسمك",
+    "defaults": {
+        "theme": "light",
+        "language": "ar",
+        "timezone": "Asia/Riyadh",
+        "data_path": "./data",
+        "model_path": "./models"
+    },
+    "features": {
+        "autosave": true,
+        "notifications": true,
+        "analytics": false
+    }
+}
